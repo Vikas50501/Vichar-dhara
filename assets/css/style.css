@@ -10413,11 +10413,11 @@ blockquote .blockquote-card_title:before {
   transform: translate(-50%, 0);
   mask-size: 100% 100%;
 }
-@media (max-width: 1500px) {
+
   .process-card2 .process-card-arrow {
     display: none;
   }
-}
+
 .process-card2:hover .process-card_icon i,
 .process-card2:hover .process-card_icon img,
 .process-card2:hover .process-card_icon svg {
